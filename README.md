@@ -51,6 +51,7 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 ![Uploading image.png…]()
 ![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 **PROCEDURE:**
